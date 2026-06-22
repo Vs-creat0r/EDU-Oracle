@@ -31,3 +31,18 @@ coverage/
 .nyc_output/
 playwright-report/
 test-results/
+# Documentation and internal files
+prd.md
+CLAUDE.md
+AGENTS.md
+research-scratchpad.md
+adr/
+context/
+specs/
+tasks/
+obsidian-vault/
+generate-obsidian.mjs
+results/
+src/AGENTS.md
+src/CLAUDE.md
+src/README.md
